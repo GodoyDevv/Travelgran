@@ -1,7 +1,7 @@
 
 # Travelgram
 
-Projeto desenvolvido com HTML e CSS para compartilhar viagens, cultura e gastronomia. Este projeto foca na criação de um layout atrativo e intuitivo, utilizando práticas modernas de desenvolvimento front-end, mas não foi trabalhado responsividade.
+Projeto desenvolvido com HTML e CSS para compartilhar viagens, cultura e gastronomia. Este projeto foca na criação de um layout atrativo e intuitivo, utilizando práticas modernas de desenvolvimento front-end.
 
 ## Funcionalidades
 
