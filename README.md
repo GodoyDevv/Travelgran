@@ -35,8 +35,7 @@ O projeto é estruturado da seguinte forma:
 
 ## Instruções de Uso
 
-1. Clone o repositório ou faça o download dos arquivos.
-2. Abra o arquivo `index.html` em um navegador de sua escolha.
+1. Acesse o link ao lado na sessão about.
 
 ## Observações
 
