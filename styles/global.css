@@ -45,7 +45,13 @@ a:hover {
 }
 
 .bg-surface-color {
-  background-color: var(--surface-color);
+  background-color: var(--background-color);
+  max-width: 1280px;
+  padding-inline: 2rem;
+  margin-inline: auto;
+}
+
+header {
   max-width: 1280px;
   padding-inline: 2rem;
   margin-inline: auto;
